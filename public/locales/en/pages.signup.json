@@ -1,0 +1,29 @@
+{
+  "title": "Sign up",
+  "email": "Email",
+  "helperText": "An email with a link to log in will be sent to you. You can create or change a password for your account once you've signed in.",
+  "password": "Password",
+  "passwordConfirmation": "Confirm password",
+  "helperTextSent": "Email sent. Please check your inbox. In the case you don't receive the email, please check your spam folder or request a new one in %d seconds.",
+  "submitButton":{
+    "text": "Sign up",
+    "loading": "Loading...",
+    "success": "Success!"
+  },
+  "loginRedirectText": "Already have an account?",
+  "loginRedirectLink": "Login",
+  "validation": {
+    "email": {
+      "required": "Email is required",
+      "email": "Email is invalid"
+    },
+    "password": {
+      "required": "Password is required",
+      "min": "Password must be at least 8 characters long",
+      "max": "Password must be less than 128 characters long"
+    },
+    "passwordConfirmation": {
+      "oneOf": "Password does not match"
+    }
+  }
+}

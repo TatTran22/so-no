@@ -1,0 +1,18 @@
+{
+  "title": "Đăng nhập",
+  "email": "Email",
+  "password": "Mật khẩu",
+  "submit": "Đăng nhập",
+  "forgotPassword": "Quên mật khẩu?",
+  "signUpRedirect": "Chưa có tài khoản?",
+  "signUpRedirectLink": "Đăng ký",
+  "validation": {
+    "email": {
+      "required": "Email không được để trống",
+      "email": "Email không đúng định dạng"
+    },
+    "password": {
+      "required": "Mật khẩu không được để trống"
+    }
+  }
+}

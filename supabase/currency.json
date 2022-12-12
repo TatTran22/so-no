@@ -1,0 +1,1451 @@
+[
+    {
+        "id": 0,
+        "currency_name": "United States Dollar",
+        "currency_code": "USD",
+        "currency_symbol": "$",
+        "country_name": "usa",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_usd.png",
+        "currency_image_name": "001-united-states.png"
+    },
+    {
+        "id": 1,
+        "currency_name": "Pound",
+        "currency_code": "GBP",
+        "currency_symbol": "£",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_gbp.png",
+        "currency_image_name": "002-united-kingdom.png"
+    },
+    {
+        "id": 2,
+        "currency_name": "Euro",
+        "currency_code": "EUR",
+        "currency_symbol": "€",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_eur.png",
+        "currency_image_name": "003-european.png"
+    },
+    {
+        "id": 3,
+        "currency_name": "Việt Nam Đồng",
+        "currency_code": "VND",
+        "currency_symbol": "₫",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_vnd.png",
+        "currency_image_name": "004-vietnam.png"
+    },
+    {
+        "id": 4,
+        "currency_name": "Yuan Renminbi",
+        "currency_code": "CNY",
+        "currency_symbol": "¥",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_cny.png",
+        "currency_image_name": "005-china.png"
+    },
+    {
+        "id": 5,
+        "currency_name": "Yen",
+        "currency_code": "JPY",
+        "currency_symbol": "¥",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_jpy.png",
+        "currency_image_name": "006-japan.png"
+    },
+    {
+        "id": 6,
+        "currency_name": "Reais",
+        "currency_code": "BRL",
+        "currency_symbol": "R$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_brl.png",
+        "currency_image_name": "007-brazil.png"
+    },
+    {
+        "id": 7,
+        "currency_name": "Rubles",
+        "currency_code": "RUB",
+        "currency_symbol": "₽",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_rub.png",
+        "currency_image_name": "008-russia.png"
+    },
+    {
+        "id": 8,
+        "currency_name": "South Korean won",
+        "currency_code": "KRW",
+        "currency_symbol": "₩",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_krw.png",
+        "currency_image_name": "009-south-korea.png"
+    },
+    {
+        "id": 9,
+        "currency_name": "Baht",
+        "currency_code": "THB",
+        "currency_symbol": "฿",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_thb.png",
+        "currency_image_name": "010-thailand.png"
+    },
+    {
+        "id": 10,
+        "currency_name": "India Rupee",
+        "currency_code": "INR",
+        "currency_symbol": "₹",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_inr.png",
+        "currency_image_name": "011-india.png"
+    },
+    {
+        "id": 11,
+        "currency_name": "Francs",
+        "currency_code": "CHF",
+        "currency_symbol": "Fr.",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_chf.png",
+        "currency_image_name": "012-switzerland.png"
+    },
+    {
+        "id": 12,
+        "currency_name": "Kroner",
+        "currency_code": "DKK",
+        "currency_symbol": "Kr",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_dkk.png",
+        "currency_image_name": "013-denmark.png"
+    },
+    {
+        "id": 13,
+        "currency_name": "Sweden Krona",
+        "currency_code": "SEK",
+        "currency_symbol": "kr",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_sek.png",
+        "currency_image_name": "014-sweden.png"
+    },
+    {
+        "id": 14,
+        "currency_name": "Poland Zlotych",
+        "currency_code": "PLN",
+        "currency_symbol": "zł",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_pln.png",
+        "currency_image_name": "015-poland.png"
+    },
+    {
+        "id": 15,
+        "currency_name": "Hungary Forint",
+        "currency_code": "HUF",
+        "currency_symbol": "Ft",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_huf.png",
+        "currency_image_name": "016-hungary.png"
+    },
+    {
+        "id": 16,
+        "currency_name": "Norwegian krone",
+        "currency_code": "NOK",
+        "currency_symbol": "kr",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_nok.png",
+        "currency_image_name": "017-norway.png"
+    },
+    {
+        "id": 17,
+        "currency_name": "Belarusian ruble",
+        "currency_code": "BYR",
+        "currency_symbol": "Br",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_byr.png",
+        "currency_image_name": "018-belarus.png"
+    },
+    {
+        "id": 18,
+        "currency_name": "Algerian Dinar",
+        "currency_code": "DZD",
+        "currency_symbol": "DZD",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_dzd.png",
+        "currency_image_name": "019-algeria.png"
+    },
+    {
+        "id": 19,
+        "currency_name": "Australia Dollars",
+        "currency_code": "AUD",
+        "currency_symbol": "AU$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_aud.png",
+        "currency_image_name": "020-australia.png"
+    },
+    {
+        "id": 20,
+        "currency_name": "Azerbaijan New Manats",
+        "currency_code": "AZN",
+        "currency_symbol": "₼",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_azn.png",
+        "currency_image_name": "021-azerbaijan.png"
+    },
+    {
+        "id": 21,
+        "currency_name": "Argentina Pesos",
+        "currency_code": "ARS",
+        "currency_symbol": "$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_ars.png",
+        "currency_image_name": "022-argentina.png"
+    },
+    {
+        "id": 22,
+        "currency_name": "Bangladeshi taka",
+        "currency_code": "BDT",
+        "currency_symbol": "৳",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_bdt.png",
+        "currency_image_name": "023-bangladesh.png"
+    },
+    {
+        "id": 23,
+        "currency_name": "Bolivianos",
+        "currency_code": "BOB",
+        "currency_symbol": "$b",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_bob.png",
+        "currency_image_name": "024-bolivia.png"
+    },
+    {
+        "id": 24,
+        "currency_name": "Bulgarian lev",
+        "currency_code": "BGN",
+        "currency_symbol": "лв",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_bgn.png",
+        "currency_image_name": "025-bulgaria.png"
+    },
+    {
+        "id": 25,
+        "currency_name": "Canada Dollars",
+        "currency_code": "CAD",
+        "currency_symbol": "C$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_cad.png",
+        "currency_image_name": "026-canada.png"
+    },
+    {
+        "id": 26,
+        "currency_name": "Costa Rican colón",
+        "currency_code": "CRC",
+        "currency_symbol": "₡",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_crc.png",
+        "currency_image_name": "027-costa-rica.png"
+    },
+    {
+        "id": 27,
+        "currency_name": "Croatian kuna",
+        "currency_code": "HRK",
+        "currency_symbol": "kn",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_hrk.png",
+        "currency_image_name": "028-croatia.png"
+    },
+    {
+        "id": 28,
+        "currency_name": "Chile Pesos",
+        "currency_code": "CLP",
+        "currency_symbol": "$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_clp.png",
+        "currency_image_name": "029-chile.png"
+    },
+    {
+        "id": 29,
+        "currency_name": "Colombia Pesos",
+        "currency_code": "COP",
+        "currency_symbol": "COL$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_cop.png",
+        "currency_image_name": "030-colombia.png"
+    },
+    {
+        "id": 30,
+        "currency_name": "Česká koruna",
+        "currency_code": "CZK",
+        "currency_symbol": "Kč",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_czk.png",
+        "currency_image_name": "031-czech-republic.png"
+    },
+    {
+        "id": 31,
+        "currency_name": "Lempiras",
+        "currency_code": "HNL",
+        "currency_symbol": "L",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_hnl.png",
+        "currency_image_name": "032-honduras.png"
+    },
+    {
+        "id": 32,
+        "currency_name": "Moroccan Dirham",
+        "currency_code": "MAD",
+        "currency_symbol": "MAD",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_mad.png",
+        "currency_image_name": "033-morocco.png"
+    },
+    {
+        "id": 33,
+        "currency_name": "Mexico Pesos",
+        "currency_code": "MXN",
+        "currency_symbol": "Mex$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_mxn.png",
+        "currency_image_name": "034-mexico.png"
+    },
+    {
+        "id": 34,
+        "currency_name": "Nairas",
+        "currency_code": "NGN",
+        "currency_symbol": "₦",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_ngn.png",
+        "currency_image_name": "035-nigeria.png"
+    },
+    {
+        "id": 35,
+        "currency_name": "New Zealand Dollars",
+        "currency_code": "NZD",
+        "currency_symbol": "NZ$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_nzd.png",
+        "currency_image_name": "036-new-zealand.png"
+    },
+    {
+        "id": 36,
+        "currency_name": "Hong Kong Dollars",
+        "currency_code": "HKD",
+        "currency_symbol": "HK$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_hkd.png",
+        "currency_image_name": "037-hong-kong.png"
+    },
+    {
+        "id": 37,
+        "currency_name": "Lao kip",
+        "currency_code": "LAK",
+        "currency_symbol": "₭",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_lak.png",
+        "currency_image_name": "038-laos.png"
+    },
+    {
+        "id": 38,
+        "currency_name": "Kenya Shilling",
+        "currency_code": "KES",
+        "currency_symbol": "KSh",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_kes.png",
+        "currency_image_name": "039-kenya.png"
+    },
+    {
+        "id": 39,
+        "currency_name": "Dominican Republic Pesos",
+        "currency_code": "DOP",
+        "currency_symbol": "RD$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_dop.png",
+        "currency_image_name": "040-dominica.png"
+    },
+    {
+        "id": 40,
+        "currency_name": "Ghana Cedi",
+        "currency_code": "GHS",
+        "currency_symbol": "GH₵",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_ghs.png",
+        "currency_image_name": "041-ghana.png"
+    },
+    {
+        "id": 41,
+        "currency_name": "Israel New Shekels",
+        "currency_code": "ILS",
+        "currency_symbol": "₪",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_ils.png",
+        "currency_image_name": "042-israel.png"
+    },
+    {
+        "id": 42,
+        "currency_name": "Indonesia Rupiah",
+        "currency_code": "IDR",
+        "currency_symbol": "Rp",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_idr.png",
+        "currency_image_name": "043-indonesia.png"
+    },
+    {
+        "id": 43,
+        "currency_name": "Iranian Rial",
+        "currency_code": "IRR",
+        "currency_symbol": "IRR",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_irr.png",
+        "currency_image_name": "044-iran.png"
+    },
+    {
+        "id": 44,
+        "currency_name": "Jordanian dinar",
+        "currency_code": "JOD",
+        "currency_symbol": "JOD",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_jod.png",
+        "currency_image_name": "045-jordan.png"
+    },
+    {
+        "id": 45,
+        "currency_name": "Kyrgyzstan Som",
+        "currency_code": "KGS",
+        "currency_symbol": "сом",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_kgs.png",
+        "currency_image_name": "046-kyrgyzstan.png"
+    },
+    {
+        "id": 46,
+        "currency_name": "Latvia Lati",
+        "currency_code": "LVL",
+        "currency_symbol": "Ls",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_lvl.png",
+        "currency_image_name": "047-latvia.png"
+    },
+    {
+        "id": 47,
+        "currency_name": "Lithuania Litai",
+        "currency_code": "LTL",
+        "currency_symbol": "Lt",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_ltl.png",
+        "currency_image_name": "048-lithuania.png"
+    },
+    {
+        "id": 48,
+        "currency_name": "Macedonia Denars",
+        "currency_code": "MKD",
+        "currency_symbol": "ден",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_mkd.png",
+        "currency_image_name": "049-republic-of-macedonia.png"
+    },
+    {
+        "id": 49,
+        "currency_name": "Mozambique Meticais",
+        "currency_code": "MZN",
+        "currency_symbol": "MT",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_mzn.png",
+        "currency_image_name": "050-mozambique.png"
+    },
+    {
+        "id": 50,
+        "currency_name": "Malaysia Ringgits",
+        "currency_code": "MYR",
+        "currency_symbol": "RM",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_myr.png",
+        "currency_image_name": "051-malaysia.png"
+    },
+    {
+        "id": 51,
+        "currency_name": "Netherlands Antilles Guilders",
+        "currency_code": "ANG",
+        "currency_symbol": "NAƒ",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_ang.png",
+        "currency_image_name": "052-netherlands.png"
+    },
+    {
+        "id": 52,
+        "currency_name": "New Taiwan Dollar",
+        "currency_code": "TWD",
+        "currency_symbol": "NT$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_twd.png",
+        "currency_image_name": "053-taiwan.png"
+    },
+    {
+        "id": 53,
+        "currency_name": "Nicaragua Cordobas",
+        "currency_code": "NIO",
+        "currency_symbol": "C$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_nio.png",
+        "currency_image_name": "054-nicaragua.png"
+    },
+    {
+        "id": 54,
+        "currency_name": "Nepalese Rupee",
+        "currency_code": "NPR",
+        "currency_symbol": "NRs",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_npr.png",
+        "currency_image_name": "055-nepal.png"
+    },
+    {
+        "id": 55,
+        "currency_name": "Oman Rials",
+        "currency_code": "OMR",
+        "currency_symbol": "﷼",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_omr.png",
+        "currency_image_name": "056-oman.png"
+    },
+    {
+        "id": 56,
+        "currency_name": "Panama Balboa",
+        "currency_code": "PAB",
+        "currency_symbol": "B/.",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_pab.png",
+        "currency_image_name": "057-panama.png"
+    },
+    {
+        "id": 57,
+        "currency_name": "Philippines Pesos",
+        "currency_code": "PHP",
+        "currency_symbol": "₱",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_php.png",
+        "currency_image_name": "058-philippines.png"
+    },
+    {
+        "id": 58,
+        "currency_name": "Paraguay Guarani",
+        "currency_code": "PYG",
+        "currency_symbol": "Gs",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_pyg.png",
+        "currency_image_name": "059-paraguay.png"
+    },
+    {
+        "id": 59,
+        "currency_name": "Peru Nuevos Soles",
+        "currency_code": "PEN",
+        "currency_symbol": "S/.",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_pen.png",
+        "currency_image_name": "060-peru.png"
+    },
+    {
+        "id": 60,
+        "currency_name": "Qatar riyal",
+        "currency_code": "QAR",
+        "currency_symbol": "QR",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_qar.png",
+        "currency_image_name": "061-qatar.png"
+    },
+    {
+        "id": 61,
+        "currency_name": "Romanian Leu",
+        "currency_code": "RON",
+        "currency_symbol": "lei",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_ron.png",
+        "currency_image_name": "062-romania.png"
+    },
+    {
+        "id": 62,
+        "currency_name": "Trinidad and Tobago Dollars",
+        "currency_code": "TTD",
+        "currency_symbol": "TT$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_ttd.png",
+        "currency_image_name": "063-trinidad-and-tobago.png"
+    },
+    {
+        "id": 63,
+        "currency_name": "Turkish Liras",
+        "currency_code": "TRY",
+        "currency_symbol": "₺",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_try.png",
+        "currency_image_name": "064-turkey.png"
+    },
+    {
+        "id": 64,
+        "currency_name": "Tunisian dinar",
+        "currency_code": "TND",
+        "currency_symbol": "DT",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_tnd.png",
+        "currency_image_name": "065-tunisia.png"
+    },
+    {
+        "id": 65,
+        "currency_name": "Ukraine Hryvnia",
+        "currency_code": "UAH",
+        "currency_symbol": "₴",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_uah.png",
+        "currency_image_name": "066-ukraine.png"
+    },
+    {
+        "id": 66,
+        "currency_name": "Uruguay Pesos",
+        "currency_code": "UYU",
+        "currency_symbol": "$U",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_uyu.png",
+        "currency_image_name": "067-uruguay.png"
+    },
+    {
+        "id": 67,
+        "currency_name": "United Arab Emirates dirham",
+        "currency_code": "AED",
+        "currency_symbol": "AED",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_aed.png",
+        "currency_image_name": "068-united-arab-emirates.png"
+    },
+    {
+        "id": 68,
+        "currency_name": "Venezuela Bolivares Fuertes",
+        "currency_code": "VEF",
+        "currency_symbol": "Bs",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_vef.png",
+        "currency_image_name": "069-venezuela.png"
+    },
+    {
+        "id": 69,
+        "currency_name": "Kazakhstani tenge",
+        "currency_code": "KZT",
+        "currency_symbol": "₸",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_kzt.png",
+        "currency_image_name": "070-kazakhstan.png"
+    },
+    {
+        "id": 70,
+        "currency_name": "Serbia Dinar",
+        "currency_code": "RSD",
+        "currency_symbol": "din.",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_rsd.png",
+        "currency_image_name": "071-serbia.png"
+    },
+    {
+        "id": 71,
+        "currency_name": "Saudi Arabian Riyal",
+        "currency_code": "SAR",
+        "currency_symbol": "SR",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_sar.png",
+        "currency_image_name": "072-saudi-arabia.png"
+    },
+    {
+        "id": 72,
+        "currency_name": "Slovak crown",
+        "currency_code": "SKK",
+        "currency_symbol": "SKK",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_skk.png",
+        "currency_image_name": "073-slovakia.png"
+    },
+    {
+        "id": 73,
+        "currency_name": "South African rand",
+        "currency_code": "ZAR",
+        "currency_symbol": "R",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_zar.png",
+        "currency_image_name": "074-south-africa.png"
+    },
+    {
+        "id": 74,
+        "currency_name": "Singapore Dollars",
+        "currency_code": "SGD",
+        "currency_symbol": "S$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_sgd.png",
+        "currency_image_name": "075-singapore.png"
+    },
+    {
+        "id": 75,
+        "currency_name": "Sri Lanka rupee",
+        "currency_code": "LKR",
+        "currency_symbol": "Rs",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_lkr.png",
+        "currency_image_name": "076-sri-lanka.png"
+    },
+    {
+        "id": 76,
+        "currency_name": "Zambian kwacha",
+        "currency_code": "ZMW",
+        "currency_symbol": "ZK",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_not_found.png",
+        "currency_image_name": "077-zambia.png"
+    },
+    {
+        "id": 77,
+        "currency_name": "Lebanese Pound",
+        "currency_code": "LBP",
+        "currency_symbol": "LBP",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_lbp.png",
+        "currency_image_name": "078-lebanon.png"
+    },
+    {
+        "id": 78,
+        "currency_name": "Kuwaiti Dinar",
+        "currency_code": "KWD",
+        "currency_symbol": "K.D",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_kwd.png",
+        "currency_image_name": "079-kuwait.png"
+    },
+    {
+        "id": 79,
+        "currency_name": "Afghan afghani",
+        "currency_code": "AFN",
+        "currency_symbol": "AFN",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_afn.png",
+        "currency_image_name": "080-afghanistan.png"
+    },
+    {
+        "id": 80,
+        "currency_name": "Albanian lek",
+        "currency_code": "ALL",
+        "currency_symbol": "ALL",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_all.png",
+        "currency_image_name": "081-albania.png"
+    },
+    {
+        "id": 81,
+        "currency_name": "Angolan kwanza",
+        "currency_code": "AOA",
+        "currency_symbol": "AOA",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_aoa.png",
+        "currency_image_name": "082-angola.png"
+    },
+    {
+        "id": 82,
+        "currency_name": "East Caribbean dollar",
+        "currency_code": "XCD",
+        "currency_symbol": "EC$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_xcd.png",
+        "currency_image_name": "083-caribbean.png"
+    },
+    {
+        "id": 83,
+        "currency_name": "Armenian dram",
+        "currency_code": "AMD",
+        "currency_symbol": "AMD",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_amd.png",
+        "currency_image_name": "084-armenia.png"
+    },
+    {
+        "id": 84,
+        "currency_name": "Aruban florin",
+        "currency_code": "AWG",
+        "currency_symbol": "ƒ",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_awg.png",
+        "currency_image_name": "085-aruba.png"
+    },
+    {
+        "id": 85,
+        "currency_name": "Bahamian dollar",
+        "currency_code": "BSD",
+        "currency_symbol": "B$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_bsd.png",
+        "currency_image_name": "086-bahamas.png"
+    },
+    {
+        "id": 86,
+        "currency_name": "Bahraini dinar",
+        "currency_code": "BHD",
+        "currency_symbol": "BHD",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_bhd.png",
+        "currency_image_name": "087-bahrain.png"
+    },
+    {
+        "id": 87,
+        "currency_name": "Barbadian dollar",
+        "currency_code": "BBD",
+        "currency_symbol": "Bds",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_bbd.png",
+        "currency_image_name": "088-barbados.png"
+    },
+    {
+        "id": 88,
+        "currency_name": "Belize dollar",
+        "currency_code": "BZD",
+        "currency_symbol": "BZ$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_bzd.png",
+        "currency_image_name": "089-belize.png"
+    },
+    {
+        "id": 89,
+        "currency_name": "West African CFA franc",
+        "currency_code": "XOF",
+        "currency_symbol": "CFA",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_xof.png",
+        "currency_image_name": "090-french-west-african-franc.png"
+    },
+    {
+        "id": 90,
+        "currency_name": "Bermudian dollar",
+        "currency_code": "BMD",
+        "currency_symbol": "BD$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_bmd.png",
+        "currency_image_name": "091-bermuda.png"
+    },
+    {
+        "id": 91,
+        "currency_name": "Bhutanese ngultrum",
+        "currency_code": "BTN",
+        "currency_symbol": "Nu.",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_btn.png",
+        "currency_image_name": "092-bhutan.png"
+    },
+    {
+        "id": 92,
+        "currency_name": "Bosnia and Herzegovina konvertibilna marka",
+        "currency_code": "BAM",
+        "currency_symbol": "KM",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_bam.png",
+        "currency_image_name": "093-bosnia-and-herzegovina.png"
+    },
+    {
+        "id": 93,
+        "currency_name": "Botswana pula",
+        "currency_code": "BWP",
+        "currency_symbol": "P",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_bwp.png",
+        "currency_image_name": "094-botswana.png"
+    },
+    {
+        "id": 94,
+        "currency_name": "Brunei dollar",
+        "currency_code": "BND",
+        "currency_symbol": "B$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_bnd.png",
+        "currency_image_name": "095-brunei.png"
+    },
+    {
+        "id": 95,
+        "currency_name": "Burundi franc",
+        "currency_code": "BIF",
+        "currency_symbol": "FBu",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_bif.png",
+        "currency_image_name": "096-burundi.png"
+    },
+    {
+        "id": 96,
+        "currency_name": "Khmer riel",
+        "currency_code": "KHR",
+        "currency_symbol": "KHR",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_khr.png",
+        "currency_image_name": "097-cambodia.png"
+    },
+    {
+        "id": 97,
+        "currency_name": "Cape Verdean escudo",
+        "currency_code": "CVE",
+        "currency_symbol": "Esc",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_cve.png",
+        "currency_image_name": "098-cape-verde.png"
+    },
+    {
+        "id": 98,
+        "currency_name": "Cayman Islands dollar",
+        "currency_code": "KYD",
+        "currency_symbol": "KY$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_kyd.png",
+        "currency_image_name": "099-cayman-islands.png"
+    },
+    {
+        "id": 99,
+        "currency_name": "Comorian franc",
+        "currency_code": "KMF",
+        "currency_symbol": "KMF",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_kmf.png",
+        "currency_image_name": "100-comoros.png"
+    },
+    {
+        "id": 100,
+        "currency_name": "Congolese franc",
+        "currency_code": "CDF",
+        "currency_symbol": "F",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_cdf.png",
+        "currency_image_name": "101-democratic-republic-of-congo.png"
+    },
+    {
+        "id": 101,
+        "currency_name": "Cuban peso",
+        "currency_code": "CUC",
+        "currency_symbol": "₱",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_cuc.png",
+        "currency_image_name": "102-cuba.png"
+    },
+    {
+        "id": 102,
+        "currency_name": "Djiboutian franc",
+        "currency_code": "DJF",
+        "currency_symbol": "Fdj",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_djf.png",
+        "currency_image_name": "103-djibouti.png"
+    },
+    {
+        "id": 103,
+        "currency_name": "Egyptian pound",
+        "currency_code": "EGP",
+        "currency_symbol": "£",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_egp.png",
+        "currency_image_name": "104-egypt.png"
+    },
+    {
+        "id": 104,
+        "currency_name": "Central African CFA franc",
+        "currency_code": "XAF",
+        "currency_symbol": "F.CFA",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_gqe.png",
+        "currency_image_name": "105-equatorial-guinea.png"
+    },
+    {
+        "id": 105,
+        "currency_name": "Eritrean nakfa",
+        "currency_code": "ERN",
+        "currency_symbol": "Nfa",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_ern.png",
+        "currency_image_name": "106-eritrea.png"
+    },
+    {
+        "id": 106,
+        "currency_name": "Estonian kroon",
+        "currency_code": "EEK",
+        "currency_symbol": "KR",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_eek.png",
+        "currency_image_name": "107-estonia.png"
+    },
+    {
+        "id": 107,
+        "currency_name": "Ethiopian birr",
+        "currency_code": "ETB",
+        "currency_symbol": "Br",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_etb.png",
+        "currency_image_name": "108-ethiopia.png"
+    },
+    {
+        "id": 108,
+        "currency_name": "Falkland Islands pound",
+        "currency_code": "FKP",
+        "currency_symbol": "£",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_fkp.png",
+        "currency_image_name": "109-falkland-islands.png"
+    },
+    {
+        "id": 109,
+        "currency_name": "Fijian dollar",
+        "currency_code": "FJD",
+        "currency_symbol": "FJ$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_fjd.png",
+        "currency_image_name": "110-fiji.png"
+    },
+    {
+        "id": 110,
+        "currency_name": "CFP franc",
+        "currency_code": "XPF",
+        "currency_symbol": "F",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_xpf.png",
+        "currency_image_name": "111-french-polynesia.png"
+    },
+    {
+        "id": 111,
+        "currency_name": "Central African CFA franc",
+        "currency_code": "XAF",
+        "currency_symbol": "CFA",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_xaf.png",
+        "currency_image_name": "112-central-african-republic.png"
+    },
+    {
+        "id": 112,
+        "currency_name": "Gambian dalasi",
+        "currency_code": "GMD",
+        "currency_symbol": "D",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_gmd.png",
+        "currency_image_name": "113-gambia.png"
+    },
+    {
+        "id": 113,
+        "currency_name": "Georgian lari",
+        "currency_code": "GEL",
+        "currency_symbol": "GEL",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_gel.png",
+        "currency_image_name": "114-georgia.png"
+    },
+    {
+        "id": 114,
+        "currency_name": "Gibraltar pound",
+        "currency_code": "GIP",
+        "currency_symbol": "£",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_gip.png",
+        "currency_image_name": "115-gibraltar.png"
+    },
+    {
+        "id": 115,
+        "currency_name": "Guatemalan quetzal",
+        "currency_code": "GTQ",
+        "currency_symbol": "Q",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_gtq.png",
+        "currency_image_name": "116-guatemala.png"
+    },
+    {
+        "id": 116,
+        "currency_name": "Guinean franc",
+        "currency_code": "GNF",
+        "currency_symbol": "FG",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_gnf.png",
+        "currency_image_name": "117-guinea.png"
+    },
+    {
+        "id": 117,
+        "currency_name": "Guyanese dollar",
+        "currency_code": "GYD",
+        "currency_symbol": "GY$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_gyd.png",
+        "currency_image_name": "118-guyana.png"
+    },
+    {
+        "id": 118,
+        "currency_name": "Haitian gourde",
+        "currency_code": "HTG",
+        "currency_symbol": "G",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_htg.png",
+        "currency_image_name": "119-haiti.png"
+    },
+    {
+        "id": 119,
+        "currency_name": "Icelandic króna",
+        "currency_code": "ISK",
+        "currency_symbol": "kr",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_isk.png",
+        "currency_image_name": "120-iceland.png"
+    },
+    {
+        "id": 120,
+        "currency_name": "Special Drawing Rights",
+        "currency_code": "XDR",
+        "currency_symbol": "SDR",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_xdr.png",
+        "currency_image_name": "121-union.png"
+    },
+    {
+        "id": 121,
+        "currency_name": "Iraqi dinar",
+        "currency_code": "IQD",
+        "currency_symbol": "IQD",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_iqd.png",
+        "currency_image_name": "122-iraq.png"
+    },
+    {
+        "id": 122,
+        "currency_name": "Jamaican dollar",
+        "currency_code": "JMD",
+        "currency_symbol": "J$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_jmd.png",
+        "currency_image_name": "123-jamaica.png"
+    },
+    {
+        "id": 123,
+        "currency_name": "North Korean won",
+        "currency_code": "KPW",
+        "currency_symbol": "W",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_kpw.png",
+        "currency_image_name": "124-north-korea.png"
+    },
+    {
+        "id": 124,
+        "currency_name": "Lesotho loti",
+        "currency_code": "LSL",
+        "currency_symbol": "M",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_lsl.png",
+        "currency_image_name": "125-lesotho.png"
+    },
+    {
+        "id": 125,
+        "currency_name": "Liberian dollar",
+        "currency_code": "LRD",
+        "currency_symbol": "L$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_lrd.png",
+        "currency_image_name": "126-liberia.png"
+    },
+    {
+        "id": 126,
+        "currency_name": "Libyan dinar",
+        "currency_code": "LYD",
+        "currency_symbol": "LD",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_lyd.png",
+        "currency_image_name": "127-libya.png"
+    },
+    {
+        "id": 127,
+        "currency_name": "Macanese pataca",
+        "currency_code": "MOP",
+        "currency_symbol": "MOP$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_mop.png",
+        "currency_image_name": "128-macao.png"
+    },
+    {
+        "id": 128,
+        "currency_name": "Malagasy ariary",
+        "currency_code": "MGA",
+        "currency_symbol": "Ar",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_mga.png",
+        "currency_image_name": "129-madagascar.png"
+    },
+    {
+        "id": 129,
+        "currency_name": "Malawian kwacha",
+        "currency_code": "MWK",
+        "currency_symbol": "MK",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_mwk.png",
+        "currency_image_name": "130-malawi.png"
+    },
+    {
+        "id": 130,
+        "currency_name": "Maldivian rufiyaa",
+        "currency_code": "MVR",
+        "currency_symbol": "Rf",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_mvr.png",
+        "currency_image_name": "131-maldives.png"
+    },
+    {
+        "id": 131,
+        "currency_name": "Mauritanian ouguiya",
+        "currency_code": "MRO",
+        "currency_symbol": "UM",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_mro.png",
+        "currency_image_name": "132-mauritania.png"
+    },
+    {
+        "id": 132,
+        "currency_name": "Mauritian rupee",
+        "currency_code": "MUR",
+        "currency_symbol": "Rs",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_mur.png",
+        "currency_image_name": "133-mauritius.png"
+    },
+    {
+        "id": 133,
+        "currency_name": "Moldovan leu",
+        "currency_code": "MDL",
+        "currency_symbol": "MDL",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_mdl.png",
+        "currency_image_name": "134-moldova.png"
+    },
+    {
+        "id": 134,
+        "currency_name": "Mongolian tugrik",
+        "currency_code": "MNT",
+        "currency_symbol": "₮",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_mnt.png",
+        "currency_image_name": "135-mongolia.png"
+    },
+    {
+        "id": 135,
+        "currency_name": "Mozambican metical",
+        "currency_code": "MZM",
+        "currency_symbol": "MTn",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_mzm.png",
+        "currency_image_name": "136-mozambique-1.png"
+    },
+    {
+        "id": 136,
+        "currency_name": "Myanma kyat",
+        "currency_code": "MMK",
+        "currency_symbol": "K",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_mmk.png",
+        "currency_image_name": "137-myanmar.png"
+    },
+    {
+        "id": 137,
+        "currency_name": "Pakistani rupee",
+        "currency_code": "PKR",
+        "currency_symbol": "Rs.",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_pkr.png",
+        "currency_image_name": "138-pakistan.png"
+    },
+    {
+        "id": 138,
+        "currency_name": "Papua New Guinean kina",
+        "currency_code": "PGK",
+        "currency_symbol": "K",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_pgk.png",
+        "currency_image_name": "139-papua-new-guinea.png"
+    },
+    {
+        "id": 139,
+        "currency_name": "Rwandan franc",
+        "currency_code": "RWF",
+        "currency_symbol": "RF",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_rwf.png",
+        "currency_image_name": "140-rwanda.png"
+    },
+    {
+        "id": 140,
+        "currency_name": "São Tomé and Príncipe dobra",
+        "currency_code": "STD",
+        "currency_symbol": "Db",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_std.png",
+        "currency_image_name": "141-sao-tome-and-prince.png"
+    },
+    {
+        "id": 141,
+        "currency_name": "Seychellois rupee",
+        "currency_code": "SCR",
+        "currency_symbol": "SR",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_scr.png",
+        "currency_image_name": "142-seychelles.png"
+    },
+    {
+        "id": 142,
+        "currency_name": "Sierra Leonean leone",
+        "currency_code": "SLL",
+        "currency_symbol": "Le",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_sll.png",
+        "currency_image_name": "143-sierra-leone.png"
+    },
+    {
+        "id": 143,
+        "currency_name": "Solomon Islands dollar",
+        "currency_code": "SBD",
+        "currency_symbol": "SI$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_sbd.png",
+        "currency_image_name": "144-solomon-islands.png"
+    },
+    {
+        "id": 144,
+        "currency_name": "Somali shilling",
+        "currency_code": "SOS",
+        "currency_symbol": "Sh.",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_sos.png",
+        "currency_image_name": "145-somalia.png"
+    },
+    {
+        "id": 145,
+        "currency_name": "Saint Helena pound",
+        "currency_code": "SHP",
+        "currency_symbol": "£",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_shp.png",
+        "currency_image_name": "146-saint-helena.png"
+    },
+    {
+        "id": 146,
+        "currency_name": "Sudanese pound",
+        "currency_code": "SDG",
+        "currency_symbol": "SDG",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_sdg.png",
+        "currency_image_name": "147-sudan.png"
+    },
+    {
+        "id": 147,
+        "currency_name": "Surinamese dollar",
+        "currency_code": "SRD",
+        "currency_symbol": "$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_srd.png",
+        "currency_image_name": "148-suriname.png"
+    },
+    {
+        "id": 148,
+        "currency_name": "Swazi lilangeni",
+        "currency_code": "SZL",
+        "currency_symbol": "E",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_szl.png",
+        "currency_image_name": "149-swaziland.png"
+    },
+    {
+        "id": 149,
+        "currency_name": "Syrian pound",
+        "currency_code": "SYP",
+        "currency_symbol": "SYP",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_syp.png",
+        "currency_image_name": "150-syria.png"
+    },
+    {
+        "id": 150,
+        "currency_name": "Tajikistani somoni",
+        "currency_code": "TJS",
+        "currency_symbol": "TJS",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_tjs.png",
+        "currency_image_name": "151-tajikistan.png"
+    },
+    {
+        "id": 151,
+        "currency_name": "Tanzanian shilling",
+        "currency_code": "TZS",
+        "currency_symbol": "TZS",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_tzs.png",
+        "currency_image_name": "152-tanzania.png"
+    },
+    {
+        "id": 152,
+        "currency_name": "Turkmen manat",
+        "currency_code": "TMT",
+        "currency_symbol": "m",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_tmt.png",
+        "currency_image_name": "153-turkmenistan.png"
+    },
+    {
+        "id": 153,
+        "currency_name": "Ugandan shilling",
+        "currency_code": "UGX",
+        "currency_symbol": "USh",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_ugx.png",
+        "currency_image_name": "154-uganda.png"
+    },
+    {
+        "id": 154,
+        "currency_name": "Uzbekistani som",
+        "currency_code": "UZS",
+        "currency_symbol": "UZS",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_uzs.png",
+        "currency_image_name": "155-uzbekistan.png"
+    },
+    {
+        "id": 155,
+        "currency_name": "Vanuatu vatu",
+        "currency_code": "VUV",
+        "currency_symbol": "VT",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_vuv.png",
+        "currency_image_name": "156-vanuatu.png"
+    },
+    {
+        "id": 156,
+        "currency_name": "Venezuelan bolivar",
+        "currency_code": "VEB",
+        "currency_symbol": "Bs",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_veb.png",
+        "currency_image_name": "157-venezuela-1.png"
+    },
+    {
+        "id": 157,
+        "currency_name": "Samoan tala",
+        "currency_code": "WST",
+        "currency_symbol": "WS$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_wst.png",
+        "currency_image_name": "158-samoa.png"
+    },
+    {
+        "id": 158,
+        "currency_name": "Yemeni rial",
+        "currency_code": "YER",
+        "currency_symbol": "YER",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_yer.png",
+        "currency_image_name": "159-yemen.png"
+    },
+    {
+        "id": 159,
+        "currency_name": "Zimbabwean dollar",
+        "currency_code": "ZWL",
+        "currency_symbol": "Z$",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_zwl.png",
+        "currency_image_name": "160-zimbabwe.png"
+    },
+    {
+        "id": 160,
+        "currency_name": "New Belarusian ruble",
+        "currency_code": "BYN",
+        "currency_symbol": "BR",
+        "country_name": "",
+        "currency_icon": "https://static.moneylover.me/img/flag/ic_currency_not_found.png",
+        "currency_image_name": "161-belarus-1.png"
+    }
+]
