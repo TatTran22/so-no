@@ -6,7 +6,7 @@ export default function LoginButton() {
   const router = useRouter()
   const { t } = useTranslation('navbar')
   return (
-    <Button onClick={() => router.push('/login')} variant="primary">
+    <Button onClick={() => router.push('/auth')} variant="primary">
       <Text>{t('button.login')}</Text>
     </Button>
   )

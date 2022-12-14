@@ -1,12 +1,12 @@
-import type { HTMLChakraProps } from '@chakra-ui/react'
-import { chakra } from '@chakra-ui/react'
-import type { HTMLMotionProps } from 'framer-motion'
-import { motion } from 'framer-motion'
+import { chakra, shouldForwardProp } from '@chakra-ui/react'
+import { isValidMotionProp, motion } from 'framer-motion'
 
-import type { Merge } from '@/@types/merge'
-
-type MotionBoxProps = Merge<HTMLChakraProps<'div'>, HTMLMotionProps<'div'>>
-
-const MotionBox: React.FC<MotionBoxProps> = motion(chakra.div)
+const MotionBox = chakra(motion.div, {
+  /**
+   * Allow motion props and non-Chakra props to be forwarded.
+   */
+  shouldForwardProp: (prop) =>
+    isValidMotionProp(prop) || shouldForwardProp(prop),
+})
 
 export default MotionBox

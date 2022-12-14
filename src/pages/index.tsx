@@ -1,8 +1,7 @@
 import { Box, Text } from '@chakra-ui/react'
-import type { GetStaticProps, InferGetStaticPropsType } from 'next'
+import type { GetStaticProps } from 'next'
 import { useTranslation } from 'next-i18next'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
-import { useEffect } from 'react'
 
 import GuestLayout from '@/components/layout/guest-layout'
 
@@ -10,12 +9,8 @@ type Props = {
   // Add custom props here
 }
 
-const Homepage = (props: InferGetStaticPropsType<typeof getStaticProps>) => {
+const Homepage = () => {
   const { t } = useTranslation('pages.home')
-
-  useEffect(() => {
-    console.log(props)
-  })
 
   return (
     <GuestLayout title={t('title')}>

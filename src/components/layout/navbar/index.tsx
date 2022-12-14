@@ -6,6 +6,7 @@ import {
   useBreakpointValue,
 } from '@chakra-ui/react'
 import { useUser } from '@supabase/auth-helpers-react'
+import Link from 'next/link'
 import { FiMenu } from 'react-icons/fi'
 
 import { PaydayIcon } from '@/components/icons'
@@ -21,7 +22,9 @@ export default function NavBar() {
   return (
     <Box as="nav" bg="bg-surface" width="full">
       <HStack justify="space-between">
-        <PaydayIcon width={12} height={12} />
+        <Link href={'/'}>
+          <PaydayIcon width={12} height={12} />
+        </Link>
         {isDesktop ? (
           <Flex justify="end" flex="1" alignItems="center">
             <HStack position="relative" height="fit-content">

@@ -2,7 +2,11 @@
   "title": "Login",
   "email": "Email",
   "password": "Password",
-  "submit": "Login",
+  "submitButton":{
+    "text": "Login",
+    "success": "Login successful"
+  },
+  "submitSuccess": "Sent. Please check your email.",
   "forgotPassword": "Forgot password?",
   "signUpRedirect": "Don't have an account?",
   "signUpRedirectLink": "Sign up",
@@ -13,6 +17,27 @@
     },
     "password": {
       "required": "Password is required"
+    }
+  },
+  "helperText": "An email with a link to log in will be sent to you. You can create or change a password for your account after you log in.",
+  "tabs": {
+    "passwordLess": "Passwordless",
+    "loginWithEmail": "Email and Password"
+  },
+  "notification": {
+    "login": {
+      "success": "Login successful",
+      "error": "Login failed"
+    },
+    "passwordless": {
+      "success": {
+        "title": "Email sent",
+        "description": "Please check your email"
+      },
+      "error": {
+        "title": "Error",
+        "description": "Something went wrong"
+      }
     }
   }
 }

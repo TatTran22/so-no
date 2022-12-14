@@ -2,7 +2,11 @@
   "title": "Đăng nhập",
   "email": "Email",
   "password": "Mật khẩu",
-  "submit": "Đăng nhập",
+  "submitButton":{
+    "text": "Đăng nhập",
+    "success": "Đăng nhập thành công"
+  },
+  "submitSuccess": "Đã gửi thành công",
   "forgotPassword": "Quên mật khẩu?",
   "signUpRedirect": "Chưa có tài khoản?",
   "signUpRedirectLink": "Đăng ký",
@@ -14,5 +18,10 @@
     "password": {
       "required": "Mật khẩu không được để trống"
     }
+  },
+  "helperText": "Một email có liên kết để đăng nhập sẽ được gửi cho bạn. Bạn có thể tạo hoặc thay đổi mật khẩu cho tài khoản của mình sau khi đăng nhập.",
+  "tabs": {
+    "passwordLess": "Không cần mật khẩu",
+    "loginWithEmail": "Email and Password"
   }
 }

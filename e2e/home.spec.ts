@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test'
+import { expect, test } from '@playwright/test'
 
 /** replace with env vars if needed */
 const LOCAL_HOST_URL = 'http://localhost:3000/'

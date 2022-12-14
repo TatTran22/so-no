@@ -20,6 +20,7 @@ const Page404 = () => {
       <NextSeo title="404 Not Found" />
       <MotionBox
         animate={{ y: 20 }}
+        // @ts-ignore no problem in operation, although type error appears.
         transition={{ repeat: Infinity, duration: 2, repeatType: 'reverse' }}
         width={{ base: '100%', sm: '70%', md: '60%' }}
         margin="0 auto"
