@@ -126,7 +126,6 @@ export default function Login() {
             variant="enclosed-colored"
             width="full"
             colorScheme="whatsapp"
-            isLazy
           >
             <TabList>
               <Tab rounded="sm">{t('tabs.passwordLess')}</Tab>

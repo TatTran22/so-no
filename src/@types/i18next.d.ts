@@ -12,12 +12,14 @@ import type navbar from '~/public/locales/en/navbar.json'
 import type dashboard from '~/public/locales/en/pages.dashboard.json'
 import type home from '~/public/locales/en/pages.home.json'
 import type login from '~/public/locales/en/pages.login.json'
+import type profile from '~/public/locales/en/pages.profile.json'
 import type signup from '~/public/locales/en/pages.signup.json'
 
 interface I18nNamespaces {
   common: typeof common
   navbar: typeof navbar
   'pages.dashboard': typeof dashboard
+  'pages.profile': typeof profile
   'pages.home': typeof home
   'pages.login': typeof login
   'pages.signup': typeof signup

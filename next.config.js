@@ -15,4 +15,7 @@ module.exports = withPWA({
   eslint: {
     dirs: ['src'],
   },
+  experimental: {
+    allowMiddlewareResponseBody: true,
+  },
 })

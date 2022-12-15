@@ -1,8 +1,14 @@
 import { Box, useDisclosure } from '@chakra-ui/react'
 import { AppShell } from '@saas-ui/app-shell'
 import { NavItem, Sidebar, SidebarSection } from '@saas-ui/sidebar'
+import {
+  Session,
+  // useSupabaseClient,
+  // useUser,
+} from '@supabase/auth-helpers-react'
 import { NextSeo } from 'next-seo'
 import Link from 'next/link'
+import { useEffect } from 'react'
 import { FiHome, FiSettings, FiUsers } from 'react-icons/fi'
 
 import NavBar from '../navbar'
@@ -10,12 +16,21 @@ import NavBar from '../navbar'
 interface AuthLayoutProps {
   title: string
   children?: JSX.Element
+  session?: Session | null
 }
 
-export default function AuthLayout({ title, children }: AuthLayoutProps) {
+export default function AuthLayout({
+  title,
+  children,
+  session,
+}: AuthLayoutProps) {
   const { isOpen } = useDisclosure({
     defaultIsOpen: true,
   })
+
+  useEffect(() => {
+    console.log(session)
+  }, [session])
 
   return (
     <AppShell

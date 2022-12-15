@@ -31,12 +31,12 @@ const Page404 = () => {
         />
       </MotionBox>
 
-      <Box marginY={4}>
+      <Box marginY={0}>
         <Heading textAlign="center" size="lg">
           Page not Found.
         </Heading>
 
-        <Box textAlign="center" marginTop={4}>
+        <Box textAlign="center" marginTop={0}>
           <Text fontSize="sm" color="gray">
             It&apos;s Okay!
           </Text>
